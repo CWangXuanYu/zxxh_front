@@ -1,0 +1,3 @@
+[submodule "reference/vben-admin-thin"]
+	path = reference/vben-admin-thin
+	url = https://github.com/vbenjs/vue-vben-admin.git
